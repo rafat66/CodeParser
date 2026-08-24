@@ -50,6 +50,8 @@ Example:
     ...
 </Package>
 
+---
+
 ## 📚 Research Background
 
 CodeParser builds on research related to the parsing, analysis, and visualization of object-oriented software systems. In particular, the project is related to the work presented in [1], which introduces **ScaMaha**, a tool for parsing, analyzing, and visualizing object-oriented software systems. The extraction of software elements and relationships in CodeParser can provide structured XML data that can be used as input for software visualization and analysis.
