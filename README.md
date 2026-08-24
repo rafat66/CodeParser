@@ -1,7 +1,8 @@
 # CodeParser
 Eclipse-based Java code parser plugin that analyzes Java projects and generates XML files containing software metrics, object-oriented code elements, and relationships.
 
-![Uploading CodeParser.png…]()
+<img width="768" height="512" alt="CodeParser" src="https://github.com/user-attachments/assets/7c20698a-1992-4dcd-ac2e-24591be9185e" />
+
 
 
 **CodeParser** is an Eclipse-based Java code parser plugin that analyzes Java projects and generates XML files containing software metrics, object-oriented code elements, and relationships.
