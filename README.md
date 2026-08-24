@@ -58,12 +58,6 @@ CodeParser builds on research related to the parsing, analysis, and visualizatio
 
 The project is also related to requirements traceability research presented in [2], which investigates the recovery and visualization of traceability links between requirements and source code in object-oriented software systems.
 
-## 📚 Research Background
-
-CodeParser builds on research related to the parsing, analysis, and visualization of object-oriented software systems. In particular, the project is related to the work presented in [1], which introduces **ScaMaha**, a tool for parsing, analyzing, and visualizing object-oriented software systems. The extraction of software elements and relationships in CodeParser can provide structured XML data that can be used as input for software visualization and analysis.
-
-The project is also related to requirements traceability research presented in [2], which investigates the recovery and visualization of traceability links between requirements and source code in object-oriented software systems.
-
 ### References
 
 [1] R. Al-Msie’deen, “ScaMaha: A Tool for Parsing, Analyzing, and Visualizing Object-Oriented Software Systems,” *International Journal of Computing and Digital Systems*, vol. 17, no. 1, pp. 1–20, 2025.  
