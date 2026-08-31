@@ -53,14 +53,13 @@ CodeParser automatically detects open Java projects in the Eclipse workspace and
 
 <img src="Images/MPs.png" alt="Software code metrics for mobile photo software" width="340">
 
-(cf. <a href="https://github.com/rafat66/CodeParser/blob/main/CodeParser/XML/ArgoUML%20software%20-%20codeMetrics.xml">
+<a href="https://github.com/rafat66/CodeParser/blob/main/CodeParser/XML/ArgoUML%20software%20-%20codeMetrics.xml">
 Listing 2. Software code metrics for ArgoUML software.
-</a>)
+</a>
 
-
-(cf. <a href="https://github.com/rafat66/CodeParser/blob/main/CodeParser/XML/Drawing%20shapes%20software.xml>
+<a href="https://github.com/rafat66/CodeParser/blob/main/CodeParser/XML/Drawing%20shapes%20software.xml">
 Listing 3. The code file of drawing shapes software as an XML file.
-</a>)
+</a>
 
 ---
 
