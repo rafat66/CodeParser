@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project ProjectName="ArgoUML software">
+  <Metrics>
+    <LinesOfCode LOC="253560" />
+    <NumberOfPackages NOP="90" />
+    <NumberOfClasses NOC="1939" />
+    <NumberOfAttributes NOA="3977" />
+    <NumberOfMethods NOM="14904" />
+    <NumberOfComments NOCo="81290" />
+    <NumberOfLocalVariables NOLv="0" />
+    <NumberOfInheritances NOIn="1410" />
+    <NumberOfInvocations NOI="56758" />
+    <NumberOfAccesses NOAc="0" />
+  </Metrics>
+</Project>
