@@ -51,6 +51,10 @@ The generated XML files can be used as input for further software visualization,
 
 CodeParser automatically detects open Java projects in the Eclipse workspace and analyzes their source code.
 
+
+<img width="343" height="219" alt="image" src="https://github.com/user-attachments/assets/e605334d-dac7-4799-9887-60ba2f40eae9" />
+
+
 ---
 
 ## 📚 Research Background
