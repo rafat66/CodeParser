@@ -3,9 +3,6 @@ Eclipse-based Java code parser plugin that analyzes Java projects and generates 
 
 <img src="Images/CodeParser0.png" alt="CodeParser" width="500">
 
-> **▶️ Tutorial:** Click the image below to watch the complete CodeParser tutorial.
-
-
 **CodeParser** is an Eclipse-based Java code parser plugin that analyzes Java projects and generates XML files containing software metrics, object-oriented code elements, and relationships.
 
 The plugin uses the **Eclipse JDT (Java Development Tools) AST parser** to analyze Java source code and extract structural and software engineering information from Java projects.
@@ -15,6 +12,7 @@ The plugin uses the **Eclipse JDT (Java Development Tools) AST parser** to analy
 ## 🎥 CodeParser Tutorial
 
 ▶️ Click the image below to watch the CodeParser tutorial.
+> **▶️ Tutorial:** Click the image below to watch the complete CodeParser tutorial.
 
 
 <a href="https://drive.google.com/file/d/1ddQ4qqoJxnbrWJM5qvo9BQ64MOkCyCsU/view?usp=sharing">
