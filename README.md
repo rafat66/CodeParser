@@ -11,9 +11,7 @@ The plugin uses the **Eclipse JDT (Java Development Tools) AST parser** to analy
 
 ## 🎥 CodeParser Tutorial
 
-▶️ Click the image below to watch the CodeParser tutorial.
 > **▶️ Tutorial:** Click the image below to watch the complete CodeParser tutorial.
-
 
 <a href="https://drive.google.com/file/d/1ddQ4qqoJxnbrWJM5qvo9BQ64MOkCyCsU/view?usp=sharing">
   <img src="Images/CodeParser.jpg" alt="CodeParser Tutorial" width="500">
