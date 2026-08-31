@@ -12,7 +12,7 @@ The plugin uses the **Eclipse JDT (Java Development Tools) AST parser** to analy
 ## 🎥 CodeParser Tutorial
 
 <a href="https://drive.google.com/file/d/1ddQ4qqoJxnbrWJM5qvo9BQ64MOkCyCsU/view?usp=sharing">
-  <img src="Images/CodeParser.jpg" alt="CodeParser Tutorial" width="600" height="250">
+  <img src="Images/CodeParser.jpg" alt="CodeParser Tutorial" width="600">
 </a>
 
 ---
