@@ -51,7 +51,7 @@ The generated XML files can be used as input for further software visualization,
 
 CodeParser automatically detects open Java projects in the Eclipse workspace and analyzes their source code.
 
-<img src="MPs.png" alt="Software code metrics for mobile photo software" width="340">
+<img src="Images/MPs.png" alt="Software code metrics for mobile photo software" width="340">
 
 ---
 
