@@ -63,12 +63,6 @@ Listing 2. Software code metrics for ArgoUML software.
 Listing 3. The code file of drawing shapes software as an XML file.
 </a>
 
-<br>
-<br>
-<br>
-
-<img src="Images/metaM.png" alt="Software code metrics for mobile photo software" width="340"><br>
-
 ---
 
 ## 📚 Research Background
