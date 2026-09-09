@@ -1,0 +1,48 @@
+<!--By Ra’Fat Al-Msie’deen 2026-->
+<Project Name="-">
+<Packages>
+<Package Name="-">
+<Classes>
+<Class ClassName="-" LOC="-" classAccessLevel="-" isInterface="-" Superclass="-" DeclaredPackage="-" NOC="-">
+<SuperInterfaces>
+<Interface InterfaceName="-" />
+</SuperInterfaces>
+<Compositions>
+<Composition ObjectName="-" ClassName="-" />
+</Compositions>
+<Comments>
+<Comment CommentText="-" />
+</Comments>
+<Attributes>
+<Attribute AttributeName="-" AttributeAccessLevel="-" AttributeType="-" isStaticAttribute="-" />
+</Attributes>
+<Methods>
+<Method MethodName="-" MethodAccessLevel="-" isStaticMethod="-" MethodReturnType="-" DeclaredClass="-">
+<Parameters NumberOfParameters="-">
+<Parameter ParameterName="-" ParameterType="-" />
+</Parameters>
+<Comments>
+<Comment CommentText="-" />
+</Comments>
+<LocalVariables>
+<LocalVariable LocalVariableName="-" LocalVariableType="-" />
+</LocalVariables>
+<AttributeAccesses>
+<Access AttributeAccessName="-" AttributeAccessType="-" HowIsItUsed="-" AccessedIn="-" />
+</AttributeAccesses>
+<MethodInvocations>
+<MethodInvocation MethodInvocationName="-" Arguments="-" InvokedBy="-" />
+</MethodInvocations>
+<MethodAssignments>
+<Assignment LeftHandSide="-" RightHandSide="-" />
+</MethodAssignments>
+<MethodExceptions>
+<Exception ExceptionType="-" />
+</MethodExceptions>
+</Method>
+</Methods>
+</Class>
+</Classes>
+</Package>
+</Packages>
+</Project>
