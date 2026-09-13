@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project ProjectName="Mobile photo software">
+  <Metrics>
+    <LinesOfCode LOC="1594" />
+    <NumberOfPackages NOP="10" />
+    <NumberOfClasses NOC="16" />
+    <NumberOfAttributes NOA="56" />
+    <NumberOfMethods NOM="92" />
+    <NumberOfComments NOCo="250" />
+    <NumberOfLocalVariables NOLv="0" />
+    <NumberOfInheritances NOIn="8" />
+    <NumberOfInvocations NOI="299" />
+    <NumberOfAccesses NOAc="122" />
+  </Metrics>
+</Project>
